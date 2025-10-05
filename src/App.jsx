@@ -22,7 +22,7 @@ function App() {
         <div className="background-image"></div>
         <div className="content">
          <div className="landing_content">
-         <h1>Welcome To  Nursery</h1>
+         <h1>Welcome To The Growing Place Nursery</h1>
           <div className="divider"></div>
           <p></p>
          
